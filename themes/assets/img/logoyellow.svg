@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 75" width="350" height="75">
+	<title>Camdenlogopng</title>
+	<defs>
+		<image  width="344" height="70" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVgAAABGBAMAAAB76ZEsAAAAAXNSR0IB2cksfwAAABJQTFRFAAAA//8AKigoKigoKigoKigo/w8AUQAAAAZ0Uk5TAP8DAAQCPBXL2wAAA0BJREFUeJztmFmS3CAMQFFS+Uc1F5gjZG6Q+58qqYzRjsC7u6r11dbGQ8YgupQmgCz64XmC2IPFejebFUhgH1dbzGAfVlpIYR9WWsxhH1VaGMA+qrRv2LMER7BPWrRv2LPkpWBJQMNexLjuEwZdziL2hwod6gPnswr2e9wqWN1u5piOXCJrYONGIKe1AZ8XwfaalkXfzIq2E3I6LLGCHXhRBLU9uM+ZhoWZ4awTGtlDWlbAJuPazRatofzcUdofF8EKQnBRG+RMWLUo3Eo/GPbPJGzPpo+JzetgDtY5Ckk2KEqoJ6XRIRpWvobfZgALC8HMoak2wlbjxdx6hdSWhfPpd9I8rC5JYHlE0ZzRNgtkYvcqxmJV9ILIRes+fALcDmu9jDePxd0ReOvySDpOUH2CamGTDmAI6/L8H4tVxoraYovjE+DglA/bhsjR+UYvRsFGbw1yn1rMo5EebLBVjXmU0epciiHsRLlyWIoRsExBuqbSXhTYbGDDUlZDO4SVu4A83MSZt6xw0O7EX+XExenY4yu/IuW/UEflYHmCBKtGN7AiUqs6M4q5UolhYR0sprDlZFjDTbAuhmGr8EcOY39f6+NhcRssZrDfYUiiWgyWL3L4mILljylYGW1UVagAFkaw491zDKtSzcKKYmuaFHbXoaC9L4CdPm6rdbLOV8DONDIdWHCJzoY1pe3CBl0XewVb1wWwa/pZcc3dAatrNYKtzjmGdTcFc9oMYO216wBYY0tgq1zJs7DJoXAYrFm0cB+sehEZbFUZd8EuuS3a+ANzX05gA+WIbvT2M4PNW8QDYYt8amVmWH1TyGC7zXen6d0EK7YplLCiqceSw7K/ufzIK4aDbURJH+XnEczCzqzOwIpiuRQ1gGUXcVGSBSR7v+bhVdb1zho22sPDApQsrHaIwmIL00rY6OgEFR7CdmgzVt9hrYflFPSPjMxBLga2NfdqcHrQG1VA6ybXvpQctmh/k0Ne23WYZajiK+8JqLRSQ/vSALZQAu3HSZPKyncQfNtOvpxBJezPMwhIVYHHati75A17lrgd+qVh7waU8lKw7uzrHcGPkJeCtY1A2hjcLinsswprS2sfnybQh70bjeQvkHwWASRxQFcAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="3" y="2"/>
+</svg>
